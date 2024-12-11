@@ -1,0 +1,16 @@
+São Paulo, GRU
+Buenos Aires, EZE
+Lima, LIM
+Bogotá, BOG
+Nova York, JFK
+Toronto, YYZ
+Cidade do México, MEX
+Los Angeles, LAX
+Londres, LHR
+Paris, CDG
+Frankfurt, FRA
+Madrid, MAD
+Tóquio, NRT
+Singapura, SIN
+Sydney, SYD
+Seul, ICN

@@ -1,0 +1,75 @@
+C:\Users\joaoa\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoa\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.AssemblyInfoInputs.cache
+C:\Users\joaoa\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.AssemblyInfo.cs
+C:\Users\joaoa\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.csproj.CoreCompileInputs.cache
+C:\Users\joaoa\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.sourcelink.json
+C:\Users\joaoa\source\repos\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.exe
+C:\Users\joaoa\source\repos\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.deps.json
+C:\Users\joaoa\source\repos\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.runtimeconfig.json
+C:\Users\joaoa\source\repos\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.dll
+C:\Users\joaoa\source\repos\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.pdb
+C:\Users\joaoa\source\repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.dll
+C:\Users\joaoa\source\repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\refint\poo-tp-2024-2-deus-na-frente.dll
+C:\Users\joaoa\source\repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.pdb
+C:\Users\joaoa\source\repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.genruntimeconfig.cache
+C:\Users\joaoa\source\repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\ref\poo-tp-2024-2-deus-na-frente.dll
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.exe
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.deps.json
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.runtimeconfig.json
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.dll
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.pdb
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.AssemblyInfoInputs.cache
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.AssemblyInfo.cs
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.sourcelink.json
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.dll
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\refint\poo-tp-2024-2-deus-na-frente.dll
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.pdb
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.genruntimeconfig.cache
+C:\Users\gusta\Source\Repos\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\ref\poo-tp-2024-2-deus-na-frente.dll
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.exe
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.deps.json
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.runtimeconfig.json
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.dll
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.pdb
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.AssemblyInfoInputs.cache
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.AssemblyInfo.cs
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.csproj.CoreCompileInputs.cache
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.sourcelink.json
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.dll
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\obj\Debug\net8.0\refint\poo-tp-2024-2-deus-na-frente.dll
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.pdb
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.genruntimeconfig.cache
+E:\Users\gusta\Área de Trabalho\Deus_na_frente\obj\Debug\net8.0\ref\poo-tp-2024-2-deus-na-frente.dll
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.AssemblyInfoInputs.cache
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.AssemblyInfo.cs
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.sourcelink.json
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.dll
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\refint\poo-tp-2024-2-deus-na-frente.dll
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.pdb
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.exe
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.deps.json
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.runtimeconfig.json
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.dll
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.pdb
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.genruntimeconfig.cache
+C:\Users\Casa\source\repos\DisciplinasProgramacao\poo-tp-2024-2-deus-na-frente\obj\Debug\net8.0\ref\poo-tp-2024-2-deus-na-frente.dll
+E:\Users\gusta\Área de Trabalho\Trabalho POO\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.exe
+E:\Users\gusta\Área de Trabalho\Trabalho POO\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.deps.json
+E:\Users\gusta\Área de Trabalho\Trabalho POO\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.runtimeconfig.json
+E:\Users\gusta\Área de Trabalho\Trabalho POO\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.dll
+E:\Users\gusta\Área de Trabalho\Trabalho POO\bin\Debug\net8.0\poo-tp-2024-2-deus-na-frente.pdb
+E:\Users\gusta\Área de Trabalho\Trabalho POO\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\gusta\Área de Trabalho\Trabalho POO\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.AssemblyInfoInputs.cache
+E:\Users\gusta\Área de Trabalho\Trabalho POO\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.AssemblyInfo.cs
+E:\Users\gusta\Área de Trabalho\Trabalho POO\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.csproj.CoreCompileInputs.cache
+E:\Users\gusta\Área de Trabalho\Trabalho POO\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.sourcelink.json
+E:\Users\gusta\Área de Trabalho\Trabalho POO\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.dll
+E:\Users\gusta\Área de Trabalho\Trabalho POO\obj\Debug\net8.0\refint\poo-tp-2024-2-deus-na-frente.dll
+E:\Users\gusta\Área de Trabalho\Trabalho POO\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.pdb
+E:\Users\gusta\Área de Trabalho\Trabalho POO\obj\Debug\net8.0\poo-tp-2024-2-deus-na-frente.genruntimeconfig.cache
+E:\Users\gusta\Área de Trabalho\Trabalho POO\obj\Debug\net8.0\ref\poo-tp-2024-2-deus-na-frente.dll
