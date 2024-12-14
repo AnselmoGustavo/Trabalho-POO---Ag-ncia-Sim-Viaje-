@@ -54,9 +54,8 @@ namespace SimViaje.AgenciaV1
             {
                 return true;
             }
-
             Trecho ultimoTrecho = _trechos.Last.Value;
-            return ultimoTrecho.Destino == trecho.Origem;
+            return ultimoTrecho.Destino() == trecho.Origem();
         }
 
         public DateTime DataDeCompra()

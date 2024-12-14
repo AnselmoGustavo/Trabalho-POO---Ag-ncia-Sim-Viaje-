@@ -63,6 +63,7 @@ namespace SimViaje.AgenciaV1
 
         private Bilhete gerarBilhetes()
         {
+            List<Trecho>trechosGerador = new List<Trecho>();
             Random r = new Random();
             int tipoBilhete = random.Next(1, 3);
 
@@ -71,23 +72,47 @@ namespace SimViaje.AgenciaV1
                 case 1:
                     int bagagens = random.Next(0, 6);
                     Bilhete_Prioritario bilhete = new Bilhete_Prioritario(bagagens);
-                    Voo voo = voosLista[r.Next(1, voosLista.Count - 1)]; 
-                    Trecho trecho = voo.VenderTrecho();
-                    bilhete.AddTrecho(trecho);
+                    int quantTrechos = random.Next(1, 5);
+                    for(int i = 0; i < quantTrechos; i++)
+                    {
+                        Voo voo = voosLista[r.Next(1, voosLista.Count - 1)];
+                        Trecho trecho = voo.VenderTrecho();
+                        trechosGerador.Add(trecho);
+                    }
+                    foreach(Trecho t in trechosGerador)
+                    {
+                        bilhete.AddTrecho(t);
+                    }
                     return bilhete;
 
                 case 2:
                     Bilhete_Promocional bilhetePromo = new Bilhete_Promocional();
-                    Voo voo2 = voosLista[r.Next(1, voosLista.Count - 1)];
-                    Trecho trechoPromo = voo2.VenderTrecho();
-                    bilhetePromo.AddTrecho(trechoPromo);
+                    int quantTrechos2 = random.Next(1, 5);
+                    for(int i=0; i<quantTrechos2; i++)
+                    {
+                        Voo voo2 = voosLista[r.Next(1, voosLista.Count - 1)];
+                        Trecho trechoPromo = voo2.VenderTrecho();
+                        trechosGerador.Add(trechoPromo);
+                    }
+                    foreach(Trecho t in trechosGerador)
+                    {
+                        bilhetePromo.AddTrecho(t);
+                    }
                     return bilhetePromo;
 
                 default:
                     Bilhete_Promocional defaultBilhete = new Bilhete_Promocional();
-                    Voo voo3 = voosLista[r.Next(1, voosLista.Count - 1)];
-                    Trecho defaultTrecho = voo3.VenderTrecho();
-                    defaultBilhete.AddTrecho(defaultTrecho);
+                    int quantTrechos3 = random.Next(1, 5);
+                    for(int i=0; i<quantTrechos3; i++)
+                    {
+                        Voo voo3 = voosLista[r.Next(1, voosLista.Count - 1)];
+                        Trecho defaultTrecho = voo3.VenderTrecho();
+                        trechosGerador.Add(defaultTrecho);
+                    }
+                    foreach(Trecho t in trechosGerador)
+                    {
+                        defaultBilhete.AddTrecho(t);
+                    }
                     return defaultBilhete;
             }
         }
@@ -114,15 +139,19 @@ namespace SimViaje.AgenciaV1
 
             return aeroportos;
         }
-
+        /// <summary>
+        /// Primeiramente, separa os aeroportos em 2 dicionários diferentes com base no índice gerado para cada um. Ou seja, 0,1,2,3 são aeroportos do primeiro grupo, e 4,5,6,7 são aeroportos do segundo grupo. 
+        /// Seguindo, o foreach passa por cada grupo, gera datas aleatórias pra cada voo com o método GerarDataAleatoria().
+        /// O primeiro for pega cada aeroporto do grupo 1 e cria um voo no segundo for mesclando ele com os do grupo 2, e repete isso até acabar os dois grupos.
+        /// </summary>
+        /// <returns></returns>
         public static List<Voo> gerarVoos()
         {
             List<Voo> voos= new List<Voo>();
             Dictionary<int, List<Aeroporto>> gruposAeroportos = aeroportosLista
            .Select((aeroporto, index) => new { aeroporto, index })  // Associa cada aeroporto com seu índice
-           .GroupBy(item => item.index / 4)                         // Agrupa por lotes de 4
+           .GroupBy(item => item.index / 4)                         // Agrupa por lotes de 4 com o index de cada um para separar o grupo
            .ToDictionary(group => group.Key, group => group.Select(item => item.aeroporto).ToList());
-            //public Voo(DateTime quando, Aeroporto origem, Aeroporto destino, double precoBase)
             foreach (KeyValuePair<int, List<Aeroporto>> grupo in gruposAeroportos)
             {
                 DateTime dataVoo = GerarDataAleatoria();
@@ -130,7 +159,7 @@ namespace SimViaje.AgenciaV1
 
                 for (int i = 0; i < aeroportosGrupo.Count; i++)
                 {
-                    Aeroporto origem = aeroportosGrupo[i];
+                    Aeroporto origem = aeroportosGrupo[i];//separa cada aeroporto do grupo 1 para mesclar com outro do grupo 2 e gerar os aeroportos
 
                     for (int j = 0; j < aeroportosGrupo.Count; j++)
                     {
