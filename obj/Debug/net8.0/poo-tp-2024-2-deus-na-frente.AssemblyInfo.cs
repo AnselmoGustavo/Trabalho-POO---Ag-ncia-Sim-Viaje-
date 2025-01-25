@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("poo-tp-2024-2-deus-na-frente")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3da81cf9c974625454334f3b9cfb2dea1cf41243")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61bcb134b5e1b361466dc984b741acb558f7338d")]
 [assembly: System.Reflection.AssemblyProductAttribute("poo-tp-2024-2-deus-na-frente")]
 [assembly: System.Reflection.AssemblyTitleAttribute("poo-tp-2024-2-deus-na-frente")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
